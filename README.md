@@ -1,10 +1,6 @@
 - 👋 Hi, I’m Sahjalal
 - 👀 I’m interested in frontend developer
-- 🌱 I’m currently learning node.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Now i'm looking for a intern Job .
 
-<!---
-Emphaticdesign/Emphaticdesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Hey i'm Sahjalal i'm from Bangladesh . Now i'm looking for a job as a junior web developer. 
